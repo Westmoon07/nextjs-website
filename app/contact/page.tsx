@@ -1,5 +1,5 @@
 "use client";
-import { Github, Mail, Twitter, Coffee, Wrench } from "lucide-react";
+import { Github, Mail, Twitter, Coffee, Wrench, Disc3 } from "lucide-react";
 import Link from "next/link";
 import { Navigation } from "../components/nav";
 import { Card } from "../components/card";
@@ -13,15 +13,27 @@ const socials = [
 	},
 	{
 		icon: <Mail size={20} />,
-		href: "mailto:dev@chronark.com",
+		href: "mailto:westmoon07@gmail.com",
 		label: "Email",
-		handle: "dev@chronark.com",
+		handle: "westmoon07@gmail.com",
+	},
+	{
+		icon: <Wrench size={20} />,
+		href: "https://modrinth.com/user/westmoon05",
+		label: "Modrinth",
+		handle: "Westmoon05",
 	},
 	{
 		icon: <Github size={20} />,
-		href: "https://github.com/chronark",
+		href: "https://github.com/Westmoon07",
 		label: "Github",
-		handle: "chronark",
+		handle: "Westmoon07",
+	},
+	{
+		icon: <Github size={20} />,
+		href: "https://github.com/Westmoon07",
+		label: "Github",
+		handle: "Westmoon07",
 	},
 ];
 
