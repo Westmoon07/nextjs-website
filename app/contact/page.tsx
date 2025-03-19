@@ -30,10 +30,10 @@ const socials = [
 		handle: "Westmoon07",
 	},
 	{
-		icon: <Github size={20} />,
-		href: "https://github.com/Westmoon07",
-		label: "Github",
-		handle: "Westmoon07",
+		icon: <Disc3 size={20} />,
+		href: "https://discord.gg/tyXhPYsAfx",
+		label: "Discord",
+		handle: "Westmoon05",
 	},
 	{
 		icon: <Coffee size={20} />,
