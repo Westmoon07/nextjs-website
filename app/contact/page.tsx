@@ -7,39 +7,39 @@ import { Card } from "../components/card";
 const socials = [
 	{
 		icon: <Twitter size={20} />,
-		href: "https://twitter.com/chronark_",
-		label: "Twitter",
-		handle: "@chronark_",
+		href: "https://x.com/westmoon07",
+		label: "@westmoon07",
+		handle: "Twitter",
 	},
 	{
 		icon: <Mail size={20} />,
 		href: "mailto:westmoon07@gmail.com",
-		label: "Email",
-		handle: "westmoon07@gmail.com",
+		label: "westmoon07@gmail.com",
+		handle: "Mail",
 	},
 	{
 		icon: <Wrench size={20} />,
 		href: "https://modrinth.com/user/westmoon05",
-		label: "Modrinth",
-		handle: "Westmoon05",
+		label: "Westmoon05",
+		handle: "Modrinth",
 	},
 	{
 		icon: <Github size={20} />,
 		href: "https://github.com/Westmoon07",
-		label: "Github",
-		handle: "Westmoon07",
+		label: "Westmoon07",
+		handle: "Github",
 	},
 	{
 		icon: <Disc3 size={20} />,
 		href: "https://discord.gg/tyXhPYsAfx",
-		label: "Discord",
-		handle: "Westmoon05",
+		label: "@Westmoon05",
+		handle: "Discord",
 	},
 	{
 		icon: <Coffee size={20} />,
 		href: "https://ko-fi.com/westmoon05",
-		label: "Ko-Fi",
-		handle: "Westmoon05",
+		label: "Westmoon05",
+		handle: "Ko-Fi",
 	},
 ];
 
