@@ -35,6 +35,12 @@ const socials = [
 		label: "Github",
 		handle: "Westmoon07",
 	},
+	{
+		icon: <Coffee size={20} />,
+		href: "https://ko-fi.com/westmoon05",
+		label: "Ko-Fi",
+		handle: "Westmoon05",
+	},
 ];
 
 export default function Example() {
